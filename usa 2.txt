@@ -1,0 +1,118 @@
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11168.m3u8 #Name: USA VIP | SYFY USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11167.m3u8 #Name: USA VIP | Telemundo Los Angeles USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11166.m3u8 #Name: USA VIP | Telemundo Miami USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11165.m3u8 #Name: USA VIP | Telemundo New York USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11164.m3u8 #Name: USA VIP | Telexitos USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11163.m3u8 #Name: USA VIP | The Golf Channel
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11148.m3u8 #Name: USA VIP | TNT Sports
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11162.m3u8 #Name: USA VIP | Travel Channel USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11161.m3u8 #Name: USA VIP | TyC Sports USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11160.m3u8 #Name: USA VIP | UFC Latinoamérica
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11159.m3u8 #Name: USA VIP | Unimás USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11158.m3u8 #Name: USA VIP | Universo
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11157.m3u8 #Name: USA VIP | Univisión TDN USA (Univisión Deportes)
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11156.m3u8 #Name: USA VIP | UNIVISION USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11155.m3u8 #Name: USA VIP | USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11154.m3u8 #Name: USA VIP | USA | A&E
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11153.m3u8 #Name: USA VIP | USA | Bravo
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11152.m3u8 #Name: USA VIP | USA | BTN
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11150.m3u8 #Name: USA VIP | YES Network
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11276.m3u8 #Name: USA VIP | Baby TV Spanish
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11274.m3u8 #Name: USA VIP | BEIN 4
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11273.m3u8 #Name: USA VIP | BEIN 5
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11272.m3u8 #Name: USA VIP | BEIN 6
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11271.m3u8 #Name: USA VIP | BEIN 7
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11270.m3u8 #Name: USA VIP | BEIN 8
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11269.m3u8 #Name: USA VIP | CBS 2 Los Angeles CA USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11268.m3u8 #Name: USA VIP | CBS New York USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11267.m3u8 #Name: USA VIP | CBS Sports Network
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11266.m3u8 #Name: USA VIP | Chelsea TV
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11265.m3u8 #Name: USA VIP | Cine Sony
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11264.m3u8 #Name: USA VIP | CNBC World USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11263.m3u8 #Name: USA VIP | Cozi Tv
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11262.m3u8 #Name: USA VIP | E! USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11261.m3u8 #Name: USA VIP | El Rey Network
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11260.m3u8 #Name: USA VIP | Eleven Sports
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11259.m3u8 #Name: USA VIP | Fantasy
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11258.m3u8 #Name: USA VIP | Fight Network
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11257.m3u8 #Name: USA VIP | Food Network USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11256.m3u8 #Name: USA VIP | FOX Atlanta
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11255.m3u8 #Name: USA VIP | Fox Business
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11252.m3u8 #Name: USA VIP | FOX Collage Sports Pacific
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11251.m3u8 #Name: USA VIP | FOX Deportes
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11250.m3u8 #Name: USA VIP | Fox Life
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11249.m3u8 #Name: USA VIP | Fox Los Angeles CA USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11248.m3u8 #Name: USA VIP | FOX New York USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11247.m3u8 #Name: USA VIP | Fox News
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11246.m3u8 #Name: USA VIP | Fox Soccer Plus
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11245.m3u8 #Name: USA VIP | FOX Sports Arizona
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11243.m3u8 #Name: USA VIP | FOX Sports Detroit
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11241.m3u8 #Name: USA VIP | FOX Sports Midwest
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11240.m3u8 #Name: USA VIP | FOX Sports New Orleans
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11239.m3u8 #Name: USA VIP | FOX Sports North
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11238.m3u8 #Name: USA VIP | FOX Sports North Plus
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11237.m3u8 #Name: USA VIP | FOX Sports Ohio
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11236.m3u8 #Name: USA VIP | FOX Sports Oklahoma
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11149.m3u8 #Name: USA VIP | FOX Sports Premium
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11234.m3u8 #Name: USA VIP | Fox Sports San Diego USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11233.m3u8 #Name: USA VIP | FOX Sports South Carolinas
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11232.m3u8 #Name: USA VIP | FOX Sports Southeast
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11231.m3u8 #Name: USA VIP | FOX Sports SouthWest
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11230.m3u8 #Name: USA VIP | FOX Sports SouthWest Plus
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11229.m3u8 #Name: USA VIP | FOX Sports SUN
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11228.m3u8 #Name: USA VIP | FOX Sports West
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11227.m3u8 #Name: USA VIP | Fox Sports West USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11226.m3u8 #Name: USA VIP | FOX Sports Wisconsin
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11225.m3u8 #Name: USA VIP | FOX Sports Wisconsin Plus
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11224.m3u8 #Name: USA VIP | FOX Washington
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11223.m3u8 #Name: USA VIP | FS1
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11222.m3u8 #Name: USA VIP | FS2
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11221.m3u8 #Name: USA VIP | Fuse
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11220.m3u8 #Name: USA VIP | Fusion USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11219.m3u8 #Name: USA VIP | FXM
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11218.m3u8 #Name: USA VIP | FXX
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11217.m3u8 #Name: USA VIP | FYI
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11216.m3u8 #Name: USA VIP | Gol TV
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11215.m3u8 #Name: USA VIP | Gol TV English
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11214.m3u8 #Name: USA VIP | Hallmark
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11213.m3u8 #Name: USA VIP | Hallmark Movies & Misteries
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11212.m3u8 #Name: USA VIP | HGTV USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11211.m3u8 #Name: USA VIP | HISTORY USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11210.m3u8 #Name: USA VIP | LIFETIME Movie Network
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11209.m3u8 #Name: USA VIP | LIFETIME USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11207.m3u8 #Name: USA VIP | MSG Network
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11204.m3u8 #Name: USA VIP | MSNBC
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11203.m3u8 #Name: USA VIP | NATGEO MUNDO USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11202.m3u8 #Name: USA VIP | NATGEO USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11201.m3u8 #Name: USA VIP | NATGEO WILD USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11200.m3u8 #Name: USA VIP | NBA TV HD
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11199.m3u8 #Name: USA VIP | NBC Los Ángeles
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11198.m3u8 #Name: USA VIP | NBC Miami
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11197.m3u8 #Name: USA VIP | NBC New York USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11196.m3u8 #Name: USA VIP | NBC Sports Bay Area
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11195.m3u8 #Name: USA VIP | NBC Sports Boston
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11194.m3u8 #Name: USA VIP | NBC Sports California
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11193.m3u8 #Name: USA VIP | NBC Sports Chicago
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11192.m3u8 #Name: USA VIP | NBC Sports Chicago Plus
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11191.m3u8 #Name: USA VIP | NBC Sports Northwest
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11190.m3u8 #Name: USA VIP | NBC Sports Philadelphia
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11189.m3u8 #Name: USA VIP | NBC Sports Washington
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11188.m3u8 #Name: USA VIP | NBC Washington
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11187.m3u8 #Name: USA VIP | NBCSN
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11186.m3u8 #Name: USA VIP | NESN
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11185.m3u8 #Name: USA VIP | NESN Plus
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11184.m3u8 #Name: USA VIP | NFL Network
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11183.m3u8 #Name: USA VIP | Olympic Channel USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11182.m3u8 #Name: USA VIP | Oxygen
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11181.m3u8 #Name: USA VIP | PAC 12 Arizona
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11180.m3u8 #Name: USA VIP | PAC 12 Bay Area
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11179.m3u8 #Name: USA VIP | PAC 12 Los Ángeles
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11178.m3u8 #Name: USA VIP | PAC 12 Mountain
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11177.m3u8 #Name: USA VIP | PAC 12 Networks
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11176.m3u8 #Name: USA VIP | PAC 12 Orgeon
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11175.m3u8 #Name: USA VIP | PAC 12 Washington
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11174.m3u8 #Name: USA VIP | PAC12 Network USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11173.m3u8 #Name: USA VIP | POP USA
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11171.m3u8 #Name: USA VIP | Revolt
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11170.m3u8 #Name: USA VIP | RTP Portugal
+http://iptv.dns-extreme.info:25461/live/Jorge/Jorge/11169.m3u8 #Name: USA VIP | Sprout
